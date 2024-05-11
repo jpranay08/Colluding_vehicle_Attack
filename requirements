@@ -1,0 +1,26 @@
+box2d-py==2.3.8
+certifi==2020.6.20
+cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1598400192773/work
+cycler==0.11.0
+dataclasses==0.8
+future==0.18.3
+gym @ file:///D:/bld/gym_1631033269982/work
+haversine==2.8.0
+kiwisolver==1.3.1
+matplotlib==3.3.4
+numpy==1.19.0
+opencv-python==3.4.13.47
+pandas==1.1.5
+Pillow==8.4.0
+pygame==2.2.0
+pyglet @ file:///D:/bld/pyglet_1618311616279/work
+pyparsing==3.0.9
+python-dateutil==2.8.2
+pytz==2022.7.1
+scipy @ file:///C:/bld/scipy_1629411592125/work
+six==1.16.0
+torch==1.7.0+cpu
+torchaudio==0.7.0
+torchvision==0.8.1+cpu
+typing_extensions==4.1.1
+wincertstore==0.2
